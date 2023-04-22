@@ -1,0 +1,134 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body{
+    border: #FCAF02;
+}
+main
+{ 
+    background-color: black;
+   
+}
+nav
+{
+    background-color: #FCAF02;
+    height: 40px;
+}
+.navbar
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul{
+    list-style: none;
+}
+.heading1
+{
+   padding-left: 50px;
+   padding-top: 10px;
+
+}
+
+li
+{
+    display: inline-block;
+    padding-right: 50px;
+    padding-top: 10px;
+    color: black;
+}
+.para
+{
+    display: flex;
+    padding-left: 50px;
+    padding-right: 50px;
+    color: white;
+    justify-content: center;
+}
+.left
+{
+    width: 50vw;
+}
+.right
+{
+   padding-left: 0px;
+}
+
+.info
+{
+   padding-left: 50px;
+   color: white;
+   align-items: center;
+}
+
+table, th, td {
+    border: 1px solid #FCAF02;
+    border-collapse: collapse;
+    
+  }
+  .table
+  {
+    display: flex;
+    justify-content: center;
+    color: white;
+
+  }
+
+  .button{
+    display: flex;
+    justify-content: center;
+  }
+.info h2{
+    color:  #FCAF02;
+}
+
+#name
+{
+    width: 70vw;
+    border-radius: 20px;
+}
+#mail
+{
+    width: 70vw;
+    border-radius: 20px;
+}
+#tel
+{
+    width: 34vw;
+    border-radius: 20px;
+}
+
+#city
+{
+    width: 34vw;
+    border-radius: 20px;
+}
+
+
+table{
+    width: 50%;
+    text-align: center;
+    color: #FCAF02;
+    
+}
+
+.table tfoot{
+    background-color: #FCAF02;
+    color: black;
+}
+
+button{
+    background-color: #FCAF02;
+    width: 95px;
+    height: 39px;
+    border-radius: 500px;
+}
+
+.info
+{
+ padding-left: 180px;
+ padding-right: 550x;
+}
